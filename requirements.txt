@@ -1,0 +1,8 @@
+ultralytics==8.4.183
+boxmot==25.0.0
+trackeval @ git+https://github.com/JonathonLuiten/TrackEval.git
+gdown
+huggingface_hub
+scipy
+pandas
+opencv-python
